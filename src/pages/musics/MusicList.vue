@@ -40,8 +40,6 @@
         position relative
         padding-bottom 100%
     
-
-
 .m-homeremd .remd_img>.u-img 
     position absolute
     width 100%
@@ -49,11 +47,9 @@
     top 0
     z-index 1
 
-
 .u-img 
     width 100%
     vertical-align middle
-
 
 .remd_text 
     display -webkit-box
@@ -63,7 +59,6 @@
     line-height 1.2
     font-size 0.13rem
 
-
 a, a:visited 
     color #333
     margin-bottom 0.2rem
@@ -72,7 +67,6 @@ a, a:visited
 .remd_ul 
     padding-bottom 0.16rem
     
-
 .recommend 
     position relative
     padding-left 0.09rem
@@ -81,10 +75,8 @@ a, a:visited
     height 0.25rem
     line-height 0.25rem
 
-
 b, em, h1, h2, strong 
     font-weight 400
-
 
 font-family Microsoft YaHei, .recommend:after 
     content ' '
@@ -95,7 +87,6 @@ font-family Microsoft YaHei, .recommend:after
     width 0.02rem
     height 0.16rem
     background-color #d33a31
-
 
 .m-sgitem 
     padding-left 0.01rem
@@ -108,8 +99,6 @@ font-family Microsoft YaHei, .recommend:after
         display flex
         position relative
     
-
-
 .m-sgitem 
     .sgchfl 
         -ms-flex 1 1 auto
@@ -117,14 +106,10 @@ font-family Microsoft YaHei, .recommend:after
         padding 0.06rem
         width 0
     
-
-
 .m-sgitem 
     .sgtl 
         font-size 0.17rem
     
-
-
 .f-thide 
     overflow hidden
     text-overflow ellipsis
@@ -178,7 +163,6 @@ font-family Microsoft YaHei, .recommend:after
         height 0.22rem
         background-position -0.24rem 0
     
-
 
 .remd_img 
     .u-earp 
