@@ -175,6 +175,7 @@ font-family Microsoft YaHei, .recommend:after
 
 .newmusic:after
     content ' '
+    
     position absolute
     left 0
     top 77.5%
